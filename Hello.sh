@@ -2,3 +2,4 @@
 
 echo "hello, today is $(date)"
 echo "Triggering a new build"
+echo "Hook"
